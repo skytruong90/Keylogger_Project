@@ -1,10 +1,10 @@
 # Keylogger:
 Keylogger aim is to track and record all keyboard activities.
 
-## Installation:
+# Installation:
 
 
-## How To Use:
+# How To Use:
 
 
 
