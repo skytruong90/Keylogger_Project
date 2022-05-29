@@ -1,5 +1,5 @@
 # What does this do?
-Keylogger aim is to track and record all keyboard activities.
+This project is a keylogger which aim is to keep track and record all of the user keyboard activities.
 
 # Installation:
 
