@@ -4,7 +4,7 @@
 I coded this in Python
 
 ## My Goal:
-My goal was to do a project that display the coding lanaguage: Python. This project is a keylogger which aim is to keep track and record all of the user keyboard activities. This tie in with my master in Cybersecurity and understand more about security. 
+My goal was to do a project that display the coding lanaguage: Python. This project is a keylogger which aim is to keep track and record all of the user keyboard activities. This tie in with my master in Cybersecurity and was an opportunity for me to understand more about security. 
 
 
 ### Here is a Live Demo:
